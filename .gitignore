@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EnergyDemandCalculator/FileContentIndex/457d9f8a-4fc4-4b63-b8ec-9fd055b97369.vsidx
+/EnergyDemandCalculator/bin/Debug/EnergyDemandCalculator.exe
+/EnergyDemandCalculator/bin/Debug/EnergyDemandCalculator.pdb
+/.vs/EnergyDemandCalculator/v17/DocumentLayout.json
+/.vs/EnergyDemandCalculator/v17/.suo
+/EnergyDemandCalculator/obj/Debug/EnergyDemandCalculator.pdb
+/EnergyDemandCalculator/obj/Debug/EnergyDemandCalculator.exe
+/.vs/EnergyDemandCalculator/FileContentIndex/e1e773a1-8b45-407c-a20b-e1bb9546a46c.vsidx
