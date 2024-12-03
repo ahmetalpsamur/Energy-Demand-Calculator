@@ -1,0 +1,9 @@
+C:\Users\adana\OneDrive\Masaüstü\Feng 497\EnergyDemandCalculator\EnergyDemandCalculator\EnergyDemandCalculator\bin\Debug\EnergyDemandCalculator.exe.config
+C:\Users\adana\OneDrive\Masaüstü\Feng 497\EnergyDemandCalculator\EnergyDemandCalculator\EnergyDemandCalculator\bin\Debug\EnergyDemandCalculator.exe
+C:\Users\adana\OneDrive\Masaüstü\Feng 497\EnergyDemandCalculator\EnergyDemandCalculator\EnergyDemandCalculator\bin\Debug\EnergyDemandCalculator.pdb
+C:\Users\adana\OneDrive\Masaüstü\Feng 497\EnergyDemandCalculator\EnergyDemandCalculator\EnergyDemandCalculator\obj\Debug\EnergyDemandCalculator.csproj.AssemblyReference.cache
+C:\Users\adana\OneDrive\Masaüstü\Feng 497\EnergyDemandCalculator\EnergyDemandCalculator\EnergyDemandCalculator\obj\Debug\EnergyDemandCalculator.Properties.Resources.resources
+C:\Users\adana\OneDrive\Masaüstü\Feng 497\EnergyDemandCalculator\EnergyDemandCalculator\EnergyDemandCalculator\obj\Debug\EnergyDemandCalculator.csproj.GenerateResource.cache
+C:\Users\adana\OneDrive\Masaüstü\Feng 497\EnergyDemandCalculator\EnergyDemandCalculator\EnergyDemandCalculator\obj\Debug\EnergyDemandCalculator.csproj.CoreCompileInputs.cache
+C:\Users\adana\OneDrive\Masaüstü\Feng 497\EnergyDemandCalculator\EnergyDemandCalculator\EnergyDemandCalculator\obj\Debug\EnergyDemandCalculator.exe
+C:\Users\adana\OneDrive\Masaüstü\Feng 497\EnergyDemandCalculator\EnergyDemandCalculator\EnergyDemandCalculator\obj\Debug\EnergyDemandCalculator.pdb
